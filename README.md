@@ -1,2 +1,2 @@
 # foundation-data-science-projects
-A comprehensive series of standard data science projects used to build the foundations.
+A series of foundation data science projects.
